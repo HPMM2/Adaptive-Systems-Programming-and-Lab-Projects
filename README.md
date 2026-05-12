@@ -1,16 +1,17 @@
 <div align="center">
 
-# 🤖 Adaptive Systems Programming — UANL
+# 🤖 Adaptive Systems Programming and Lab — UANL
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=flat&logo=tensorflow&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-white?style=flat&logo=scikitlearn&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Java](https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat&logo=jupyter&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![UANL](https://img.shields.io/badge/UANL-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Status](https://img.shields.io/badge/Status-Complete-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 > ⚠️ Code, comments and documentation are written in Spanish as part of my university coursework.
 
-Collection of exercises, simulations and evidences from my Adaptive Systems Programming course at UANL, covering self-adjustment, cellular automata, fuzzy systems and neural networks.
+Collection of exercises, simulations, lab practices and evidences from my Adaptive Systems Programming course at UANL, covering self-adjustment, cellular automata, fuzzy systems, neural networks, swarm intelligence and complex networks.
 
 </div>
 
@@ -18,17 +19,25 @@ Collection of exercises, simulations and evidences from my Adaptive Systems Prog
 
 ## 📁 Contents
 
-### 🔹 Auto-Adjustment
-Self-adjusting simulations implemented in Python, including a sentinel light intensity controller using trapezoidal membership functions, an auto-irrigation system based on soil humidity and temperature, and an adaptive transportation mode selector based on terrain type.
+### 🔹 Folders
 
-### 🔹 Cellular Automata
-Java-based cellular automaton simulation packaged as a runnable `.jar` file.
+| # | Topic | Description |
+|---|-------|-------------|
+| 01 | **Auto-Adjustment** | Self-adjusting simulations including a sentinel light controller, auto-irrigation system and adaptive transportation mode selector |
+| 02 | **Cellular Automata** | 1D binary cellular automaton in Python with configurable rules (0–255) and a Java-based simulation as a runnable `.jar` |
+| 03 | **Fuzzy Systems** | Fuzzy logic design and implementation with `skfuzzy`, including a Mario Kart race classifier and individual/team evidence PDFs |
+| 04 | **Neural Networks** | MLP on Parkinson's dataset, CNN models for MNIST digit recognition, K-means from scratch and with `sklearn`, and individual evidence PDF |
 
-### 🔹 Fuzzy Systems
-Design and implementation of fuzzy logic systems using `skfuzzy` in Python. Includes fuzzification, inference and defuzzification exercises, a fuzzy system designed around Mario Kart to predict race classifications based on kart speed and lap distance, and individual and team evidences (PDFs).
+### 🔹 Lab — Team Ositos
 
-### 🔹 Neural Networks
-Multilayer perceptron (MLP) trained on the Parkinson's dataset using `sklearn`, CNN models for handwritten digit recognition (MNIST) built with TensorFlow/Keras, and K-means clustering implemented both from scratch and using `sklearn`. Also includes individual evidence PDF covering kernel functions, activation functions and weight updates.
+| # | Practice | Description |
+|---|----------|-------------|
+| 01 | **ACO** | Ant Colony Optimization applied to the Travelling Salesman Problem, with manual two-ant iteration and 10-run parameter analysis |
+| 02 | **Flood It** | 14×14 color board game implemented in Python with `tkinter`, reading configurations from a `.txt` file |
+| 03 | **Fireworks** | Particle explosion simulation with `pygame`, including original buggy template, corrected version and team analysis |
+| 04 | **K-Means** | Guided K-means exercises and programming using Iris, E. coli and Glass datasets, with step-by-step guides |
+| 05 | **Complex Networks** | Directed social network analysis with adjacency matrix, centrality and degree distribution in Python and Jupyter |
+| 06 | **Agents & Reinforcement Learning** | Q-learning theory, conceptual map, true/false analysis and maze-solving with Q-matrix in Jupyter |
 
 ---
 
@@ -38,6 +47,7 @@ Multilayer perceptron (MLP) trained on the Parkinson's dataset using `sklearn`, 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=flat&logo=tensorflow&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-white?style=flat&logo=scikitlearn&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Java](https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat&logo=jupyter&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ---
 
